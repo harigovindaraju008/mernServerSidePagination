@@ -38,7 +38,7 @@ After installation is compelete start then backend by applying below command.
 ```
 node index.js
 ```
-
+![screenShots](/screenshots/backend.png)
 
 ### STEP 3
 
