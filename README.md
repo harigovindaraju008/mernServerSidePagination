@@ -26,7 +26,7 @@
 | id       | ObjectId     |
 | name     | string       |
 | email    | string       |
-| updateAt | date         |
+| updatedAt | date         |
 | createdAt| date         |
 
  <br />
