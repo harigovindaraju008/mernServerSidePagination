@@ -4,6 +4,14 @@
 
 ## SETUP
 
+### NODE CONFIG
+
+| NODE VERSION | NPM VERSION|
+| ------------ | ---------- |
+| v17.3.0      | 8.3.0      |
+
+<br />
+
 ### DATABASE CONFIG
 
 | MONGODB CONFIG | NAME     |
